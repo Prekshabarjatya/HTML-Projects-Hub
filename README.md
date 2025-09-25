@@ -5,7 +5,7 @@ It includes every project I’ve built throughout the course, giving me a way to
 
 ---
 
-## 📖 About This Course
+## About This Course
 
 The HTML module forms the foundation of my journey to becoming a full stack developer.  
 Through hands-on labs and workshops, I’ve been learning how to:
