@@ -11,3 +11,4 @@ The project demonstrates how to structure content with headings, paragraphs, ima
 - Present step-by-step instructions with an ordered list  
 - Reinforce the use of semantic HTML for clear content presentation  
 
+<img width="1910" height="874" alt="image" src="https://github.com/user-attachments/assets/27dd86a1-9aea-4f8c-b13d-a9336b419894" />
