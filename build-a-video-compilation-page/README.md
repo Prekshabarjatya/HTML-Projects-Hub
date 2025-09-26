@@ -1,4 +1,4 @@
-#About
+# About
 Introduction
 I built this Video Compilation Page as part of the FreeCodeCamp Full Stack Developer Curriculum. The goal of this project was to introduce the basics of Front End Web Development—HTML, CSS, and JavaScript—using clear sections and embedded tutorial videos.
 
